@@ -1,4 +1,4 @@
 # hello-world
 Experimenting with git and repo management
 
-Hello robot brethern! I'm a UCF IT Undergrad. 
+Updating this repo to refresh my memory on git management skills.
